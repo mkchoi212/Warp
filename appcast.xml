@@ -5,13 +5,13 @@
         <description>Most recent updates to Warp</description>
         <language>en</language>
         <item>
-            <title>Version 1.0.6</title>
-            <pubDate>Thu, 23 Jun 2022 10:39:41 -0700</pubDate>
+            <title>Version 1.1.0</title>
+            <pubDate>Mon, 27 Jun 2022 14:27:20 -0700</pubDate>
             <sparkle:releaseNotesLink>https://deadbeef.me/Warp/releasenotes.html</sparkle:releaseNotesLink>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://s3.us-east-2.amazonaws.com/com.mjc.juice/Juice-Releases/Warp-1.0.6.zip" length="7025593" type="application/octet-stream" sparkle:edSignature="eseTp5VzZ/eDxtVf1TKXFNPvOTCuX8y+kFhNe+hqJhZrqo2Q30IQpnHKqsTFLE6CYiYuAtiKQDgFL0dE2DIGBg=="/>
+            <enclosure url="https://s3.us-east-2.amazonaws.com/com.mjc.juice/Juice-Releases/Warp-1.1.0.zip" length="7031677" type="application/octet-stream" sparkle:edSignature="cvVn9otp7OzTkUbXyitgEmAx+L7r8Kiy2SdpMUppLaUJi7HTI8qP34hKLLaLOxk7M8RFeU5CdNY5MmRcT5N1Bw=="/>
         </item>
     </channel>
 </rss>
